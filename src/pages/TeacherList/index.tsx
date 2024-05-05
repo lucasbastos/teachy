@@ -1,6 +1,6 @@
 import "./styles.css";
 
-import PageHeader from "../../components/PageHeader/";
+import PageHeader from "../../components/PageHeader";
 import TeacherItem from "../../components/TeacherItem";
 import Input from "../../components/Input";
 import Select from "../../components/Select";
